@@ -11,7 +11,17 @@ bbbb
 cccc
 dddd
 eeeee
+<<<<<<< HEAD
 ffffff
 
 f111f11
 ffffffffffffffffffffff
+=======
+
+
+f111f11
+ffffffffffffffffffffff
+
+mmmmmmmm
+
+>>>>>>> branch 'f1' of git@github.com:zwh18123/t1.git
