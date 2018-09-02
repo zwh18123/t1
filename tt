@@ -13,7 +13,7 @@ bbbb
 cccc
 dddd
 eeeee
-<<<<<<< HEAD
+
 ffffff
 
 ffffffffff
@@ -27,16 +27,13 @@ ffffffffffffffffffffff
 
 
 f111f11
-ffffffffffffffffffffff
+ffffffffffffffffffff
 
->>>>>>> refs/heads/f1
-mmmmmmmm
-<<<<<<< HEAD
-r1
-=======
 
 nnnn
 n1
 n2
 n3
->>>>>>> refs/heads/f1
+
+
+rn
