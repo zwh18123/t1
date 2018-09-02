@@ -1,6 +1,8 @@
 1111
+
 222
 333
+
 
 99999999999999999
 
@@ -11,10 +13,30 @@ bbbb
 cccc
 dddd
 eeeee
-ffffff
 <<<<<<< HEAD
+ffffff
+
 ffffffffff
 gggg
 
+
+
+f111f11
+ffffffffffffffffffffff
+
+
+
+f111f11
+ffffffffffffffffffffff
+
+>>>>>>> refs/heads/f1
 mmmmmmmm
+<<<<<<< HEAD
 r1
+=======
+
+nnnn
+n1
+n2
+n3
+>>>>>>> refs/heads/f1
